@@ -1,0 +1,15 @@
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\bin\Release\ClientApp.exe.config
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\bin\Release\ClientApp.exe
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\bin\Release\ClientApp.pdb
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\bin\Release\Eneter.Messaging.Framework.dll
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\bin\Release\protobuf-net.dll
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\bin\Release\Eneter.Messaging.Framework.pdb
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\bin\Release\Eneter.Messaging.Framework.xml
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\bin\Release\protobuf-net.pdb
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\bin\Release\protobuf-net.xml
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\obj\Release\ClientApp.csprojResolveAssemblyReference.cache
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\obj\Release\ClientApp.Form1.resources
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\obj\Release\ClientApp.Properties.Resources.resources
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\obj\Release\ClientApp.csproj.GenerateResource.Cache
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\obj\Release\ClientApp.exe
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ClientApp\obj\Release\ClientApp.pdb

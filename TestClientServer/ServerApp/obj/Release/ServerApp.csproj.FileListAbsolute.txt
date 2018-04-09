@@ -1,0 +1,14 @@
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\bin\Release\ServerApp.exe.config
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\bin\Release\ServerApp.exe
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\bin\Release\ServerApp.pdb
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\bin\Release\Eneter.Messaging.Framework.dll
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\bin\Release\protobuf-net.dll
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\bin\Release\Eneter.Messaging.Framework.pdb
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\bin\Release\Eneter.Messaging.Framework.xml
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\bin\Release\protobuf-net.pdb
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\bin\Release\protobuf-net.xml
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\obj\Release\ServerApp.csprojResolveAssemblyReference.cache
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\obj\Release\ServerApp.exe
+C:\Users\phuon\Documents\Visual Studio 2015\Projects\TestClientServer\ServerApp\obj\Release\ServerApp.pdb
+H:\C#\DLL Files\New folder\TestClientServer\ServerApp\obj\Release\ServerApp.exe
+H:\C#\DLL Files\New folder\TestClientServer\ServerApp\obj\Release\ServerApp.pdb
